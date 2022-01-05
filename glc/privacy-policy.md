@@ -1,3 +1,9 @@
+layout: page
+title: "GCL - Privacy Policy"
+permalink: /glc/privacy-policy
+
+---
+
 # Game Level Counter
 
 ## Privacy Policy
